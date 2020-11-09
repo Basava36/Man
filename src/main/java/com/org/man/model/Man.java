@@ -17,4 +17,6 @@ public class Man {
     private String manInterest;
     private String manGender;
     private int manHeight;
+    private float manWeight;
+    private int manNumber;
 }
