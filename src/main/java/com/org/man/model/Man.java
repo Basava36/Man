@@ -15,4 +15,6 @@ public class Man {
     private int manAge;
     private String manAddress;
     private String manInterest;
+    private String manGender;
+    private int manHeight;
 }
